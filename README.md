@@ -1,53 +1,62 @@
 # Hi there, I'm Zac Bolton 👋
 
-I’m a front-end developer, and ML/AI engineer passionate about creating impactful projects. My work spans across various disciplines using technologies like **PyTorch**, **Typescript**, **Angular**, **Python**, **Erlang**, and **Azure Cloud**.
+I'm a Machine Learning Engineer and researcher passionate about pushing the boundaries of AI while ensuring it delivers real-world value. My work spans from implementing transformer architectures to developing novel approaches for historical document verification, combining rigorous technical methodology with creative problem-solving.
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Current**: BSc in Computer Science (Machine Learning & AI) at the **University of London**, expected graduation April 2025 (GPA: 93%).
-- 🧠 **Experienced** in AI, analytical thinking, front-end development, and collaboration.
-- 🪛 **Side Projects**: Exploring real-time websocket communcation using **Erlang** for backend and **React** for frontend.
-- 🧩 **Fun Fact**: I love **chess** and am the Director of Technology at **Kid Chess**, where we've built an online chess platform for kids: [app.kidchess.com](https://app.kidchess.com)
-- 🔭 **I’m currently working on** an Authorship Verification problem for Civil War Love Letters, using Siamese Sentence-Transformer Encoders and cutting edge Natural Language Processing techniques.
+- 🎓 BSc in Computer Science (Machine Learning & AI) at the **University of London**, graduating March 2025 with 90% grade average
+- 🧠 Conducting research in transformer-based authorship verification, achieving near-perfect metrics (AUC/F1/C@1 > 0.99) across multiple distorted views
+- 🪛 Implemented Siamese Sentence-BERT architecture achieving competitive performance (AUC: 0.900, F1: 0.785) on VALLA benchmark
+- 🎯 Director of Technology at **Kid Chess**, where we've built an AI-enhanced learning platform serving 3000+ students
+- 🌟 Techno-optimist deeply driven by technology's potential to catalyze positive change
 - 😄 Pronouns: he/him
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack
 
-### 🛠 Hard Skills
-- **Languages**: TypeScript, JavaScript, Python, SQL, CSS/SCSS, HTML, Erlang
-- **Frameworks/Tools**: Angular, Node.js, Express, Keras, Pandas, PyTorch, Rebar3
-- **Tools**: NeoVIM (yep, I'm one of _those_ guys), Jupyter Lab, DataGrip, Ghostty, Obsidian
-- **DevOps**: Docker, Azure Cloud, CI/CD, GitHub Actions, Jira
-- **Data Science**: Machine Learning, Deep Learning, Data Visualization, Jupyter Notebooks
-- **Misc**: Adobe Illustrator, Audacity, Blender
+### 🛠 Core Technologies
+- **ML/AI**: PyTorch, HuggingFace, Transformer Architectures, Python Scientific Stack
+- **Web Development**: TypeScript/JavaScript, Angular, Node/Express, REST APIs
+- **Cloud & Infrastructure**: AWS-EC2, S3, Azure Cloud
+- **Languages**: Python, TypeScript, Erlang/OTP
+- **Data**: SQL, NLP & Text Processing, Data Analysis
 
-### 💡 Soft Skills
-- Leadership | Problem-Solving | Adaptability | Effective Communication | Teamwork
-
----
-
-## 📊 Current Focus
-- **Kid Chess App**: Leading the development of our chess education platform, powered by **Angular** and **Azure**.
-- **Side Project**: A privacy-first chat app leveraging **Erlang** and **React** with WebSockets for real-time messaging.
-- **Machine Learning**: Working on reproduction of State-of-the-Art Authorship Verification models to answer a historical question, never before posed to ML/AI solutions, concerning confederate love letters which still have disputed authorship.
+### 💡 Professional Skills
+- Research & Analysis
+- Technical Writing
+- Problem Solving
+- Project Management
+- Leadership
+- Effective Communication
 
 ---
 
-## 🎓 Education & Certifications
-- **University of London**: BSc, Computer Science - Machine Learning & Artificial Intelligence (in progress)
-- **Certifications**: IBM Data Science, Google IT Support, Deep Learning Specialization, and many more...
+## 🔬 Featured Projects
+
+### Transformer-Based Authorship Verification
+- Developed novel LILA dataset with robust genre/topic bias controls
+- Integrated text distortion techniques with transformer architectures
+- Achieved competitive performance against PAN 2020 shared task participants
+- [View Research →](https://www.zacbolton.io/av-w-siamese-sbert.html)
+
+### Kid Chess Learning Platform
+- Created AI-driven feedback system using OpenAI's GPT-4 API
+- Led development of online platform serving 3000+ students
+- Automated business processes using Python data pipelines
+- [Visit Platform →](https://app.kidchess.com)
+
+### Experimental Chat System (In Development)
+- Exploring real-time communication with Erlang/OTP and React
+- Learning distributed systems principles
+- [View Repository →](https://github.com/zacharyabolton/chat_server)
 
 ---
 
-## 📫 Let’s Connect!
-- **Email**: [zacbolton2129@gmail.com](mailto:zacbolton2129@gmail.com)
-- **Website**: [zacbolton.io](https://www.zacbolton.io)
-- **LinkedIn**: [ZacABolton](https://www.linkedin.com/in/zacabolton/)
-- **GitHub**: [ZacharyABolton](https://github.com/zacharyabolton)
+## 📫 Connect With Me
+- 🌐 [Portfolio](https://www.zacbolton.io)
+- 📧 [Email](mailto:zacbolton2129@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zacabolton)
 
----
-
-Feel free to explore my repositories, and let's build something impactful together!
+Let's create something impactful together!
