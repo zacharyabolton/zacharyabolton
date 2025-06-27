@@ -5,7 +5,7 @@ I'm a Machine Learning Engineer and researcher passionate about pushing the boun
 ---
 
 ## 🚀 About Me
-- 🎓 BSc in Computer Science (Machine Learning & AI) at the **University of London**, graduating March 2025 with 90% grade average
+- 🎓 BSc in Computer Science (Machine Learning & AI) at the **University of London**, graduated March 2025 with _First Class Honors_ (90% grade average)
 - 🧠 Conducting research in transformer-based authorship verification, achieving near-perfect metrics (AUC/F1/C@1 > 0.99) across multiple distorted views
 - 🪛 Implemented Siamese Sentence-BERT architecture achieving competitive performance (AUC: 0.900, F1: 0.785) on VALLA benchmark
 - 🎯 Director of Technology at **Kid Chess**, where we've built an AI-enhanced learning platform serving 3000+ students
